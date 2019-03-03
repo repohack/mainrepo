@@ -9190,3 +9190,19 @@ Description: Redesigned call interface
 Author: Me
 Depiction: https://repohack.github.io/mainrepo/depiction/Zeppelin/index.html
 Name: Ennui
+
+Package: com.noisyflake.shortcutenabler
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Me
+Depends: mobilesubstrate
+Filename: ./debs/com.noisyflake.shortcutenabler_1.0.0.deb
+Size: 15804
+MD5sum: 40162a8a777e647457fb1e6a38f9054e
+SHA1: 6531e9e3205ff3ab690b126a6720ca62f6f029be
+SHA256: f168b3f6a5f793949834aaec97c8d52a8f552339bd0d450fa241bc75f3148e25
+Section: Tweaks
+Description: Well the title says it all :)
+Author: NoisyFlake
+Depiction: https://repohack.github.io/mainrepo/depiction/Zeppelin/index.html
+Name: Shortcutenabler
