@@ -9174,3 +9174,19 @@ Description: Cydia Redesign
 Author: Me
 Depiction: https://repohack.github.io/mainrepo/depiction/index.html
 Name: CydiaXIStyle
+
+Package: com.hackyouriphone.ennui
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Me
+Depends: mobilesubstrate
+Filename: ./debs/com.hackyouriphone.ennui_1.1.3.deb
+Size: 232370
+MD5sum: e8436651adb2114ec369f05dffafed58
+SHA1: a870d6665c36cdc09279b6ce73907d706177c3c2
+SHA256: de038d6956ebf8e6f12eb6176c72c6ea7e975d3748dfe1f5cb9edb90949a1b45
+Section: Tweaks
+Description: Redesigned call interface
+Author: Me
+Depiction: https://repohack.github.io/mainrepo/depiction/Zeppelin/index.html
+Name: Ennui
