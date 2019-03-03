@@ -9130,35 +9130,18 @@ Description: Manage packages via swipe.
 Name: SwipeForMore (Debug)
 Author: PoomSmart
 
-Package: org.thebigboss.swipeformore
-Version: 1.1.9
-Section: Tweaks
-Maintainer: PoomSmart
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: ./debs//org.thebigboss.swipeformore_1.1.9_iphoneos-arm.deb
-Size: 21680
-Installed-Size: 140
-MD5sum: 439898501824d0ebdbf587f47582bb8f
-Description: Dark mode for Notification
-Name: Dune (Dark Mode)
-Author: Me
-
 Package: com.skitty.dune
 Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: Me
-Depends: mobilesubstrate
-Filename: ./debs/com.skitty.dune_0.1.2.deb
-Size: 24530 
-MD5sum: cf724f3856b719ff3ce0078fdb38d5d6
-SHA1: faa79dc7f8aa1ea4cf850ed920b008870695cce6
-SHA256: 26e68145ee4757027821dbf0a6445d05aaa62fb5bc195329207422bae3c610ba
 Section: Tweaks
-Description: Dark mode for notifications
-Author: Me
-Depiction: https://repohack.github.io/mainrepo/depiction/index.html
+Maintainer: Me
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.skitty.dune_0.1.2.deb
+Size: 24530
+MD5sum: cf724f3856b719ff3ce0078fdb38d5d6
+Description: Dark mode for Notification Fixed
 Name: Dune (Dark Mode)
+Author: Me
 
 Package: com.matchstic.reprovision
 Version: 0.4
