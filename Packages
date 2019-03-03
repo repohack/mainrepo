@@ -1880,7 +1880,7 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.illloo
 Package: com.julioverne.jailprotect
 Architecture: iphoneos-arm
 Version: 0.0~beta4a
-Section: Tweaks
+Section: Fortnite Bypass
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.julioverne.jailprotect_0.0~beta4a_iphoneos-arm.deb
@@ -9206,3 +9206,35 @@ Description: Well the title says it all :)
 Author: NoisyFlake
 Depiction: https://repohack.github.io/mainrepo/depiction/Zeppelin/index.html
 Name: Shortcutenabler
+
+Package: com.repo.xarold.com.fortnitebypass
+Version: 5.2.0
+Architecture: iphoneos-arm
+Maintainer: Me
+Depends: mobilesubstrate
+Filename: ./debs/com.repo.xarold.com.fortnitebypass_5.2.0FINAL.deb
+Size: 12594 
+MD5sum: ae3ef1d91265b96ddaef174fd4313192
+SHA1: 9eb705937f8997d54e4e9b45530b970f05c4a508
+SHA256: d7703593fc13793659e0a1bbf9dc42c5179d5e8eb80200d7f7c6cb2071b3cd68
+Section: Fortnite Bypass
+Description: Fortnite Bypass
+Author: Me
+Depiction: https://repohack.github.io/mainrepo/depiction/Zeppelin/index.html
+Name: fortnite bypass
+
+Package: com.ryleyangus.libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Me
+Depends: mobilesubstrate
+Filename: ./debs/com.ryleyangus.libertylite_0.2.10.deb
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+SHA1: 434f034c55b792f51216342afd04ab965a614570
+SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
+Section: Fortnite Bypass
+Description: Fortnite Bypass
+Author: Me
+Depiction: https://repohack.github.io/mainrepo/depiction/Zeppelin/index.html
+Name: Liberty Lite
