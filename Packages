@@ -441,3 +441,270 @@ Description: Zeppelin
 Author: Kiran Patil
 Depiction: https://repohack.github.io/mainrepo/depiction/Zeppelin/index.html
 Name: Zeppelin
+
+Package: com.cokepokes.AutoFaceIDUnlockX
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.spark.autounlockx, com.cpdigitaldarkroom.fastunlockx
+Filename: deb/com.cokepokes.AutoFaceIDUnlockX_0.1-1_iphoneos-arm.deb
+Size: 34346
+MD5sum: 884cfa1b974903eedb28d8ca2841992d
+SHA1: bab702e5e80462dec998e0989a9cf50ea0bd1790
+SHA256: 40e55e9ddf6d942860a21c8a2bde1b7afdb1e81cbf5999d92bfb8a388a2e9ff3
+Section: Tweaks
+Priority: optional
+Description: Probably the fastest auto face unlock tweak available for the iPhoneX. No options to configure...yet
+Author: CokePokes
+Name: AutoFaceIDUnlockX
+
+Package: com.cokepokes.Masterball
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.cokepokes.Masterball_1.1_iphoneos-arm.deb
+Size: 11058
+MD5sum: 8c4291cddde567556cdd1411a6513900
+SHA1: 70c0cb766e2ea569d198bad6049bdbf2d2e30731
+SHA256: e8b771c8a0a856c642f595076add14c98b5a91f2982934269e67b166b3e6dd4d
+Section: Tweaks
+Priority: optional
+Description: Fixes the startup crash in the Pokemon Go app & hides jailbroken state
+Author: CokePokes
+Name: Masterball
+
+Package: com.cokepokes.Nestboard
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator (>= 1.8.3)
+Filename: deb/com.cokepokes.Nestboard_1.0-2_iphoneos-arm.deb
+Size: 1105212
+MD5sum: 2f55906f6621074b17f1ff10bfd89095
+SHA1: a628d17c1c8a37252d1e6595361618b47800e73d
+SHA256: 9905e6be0903e415c3cc41fa4081e14699ec73dcd62bca7bfd695b90ccbb04e0
+Section: Tweaks
+Priority: optional
+Author: CokePokes
+Name: Nestboard
+
+Package: com.cokepokes.SmartGlass-Clip-Saver
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: deb/com.cokepokes.SmartGlass-Clip-Saver_1.0-2_iphoneos-arm.deb
+Size: 226870
+MD5sum: 7d02417980a83955ef778def1982a7a7
+SHA1: c6385a5c52e9c940d5b35f2ac53e5231eee7777e
+SHA256: bc3d5dde10c8ef7941f8ea38bbc4958ebee589500858a0a631b7d3a46493266b
+Section: Tweaks
+Priority: optional
+Description: Download & save SmartGlass game clips to camera roll.
+Tag: purpose::extension
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: SmartGlass Clip Saver
+
+Package: com.cokepokes.Snapchat-Volume-Statusbar
+Version: 0.7-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.cokepokes.Snapchat-Volume-Statusbar_0.7-1_iphoneos-arm.deb
+Size: 23828
+MD5sum: 9cc1e98076c8b780e3d45ce173f5bb3b
+SHA1: d8cf81f4e003bac9f3fb838e385ea7545cb19231
+SHA256: 84b187cdccef6970d727affd8c941215d4d52db2b1eed3d74da24ae51dbe2c46
+Section: Tweaks
+Priority: optional
+Description: A fucking awesome mobile substrate tweak!
+Author: CokePokes
+Name: Snapchat Volume Statusbar
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.7-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin
+Filename: deb/com.cokepokes.appstoreplusplus_0.7-2_iphoneos-arm.deb
+Size: 776478
+MD5sum: 19a8def02b6cf103cb1bbd5d45138096
+SHA1: 91a13e50fa4294595c26996cd58cb6cb23bdecd5
+SHA256: fb333622af6d47048b1f272355da128d0bb3d764099e59456dfc1430c2cda507
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11.
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
+Package: com.cokepokes.betterarlosound
+Version: 0.1-3
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: deb/com.cokepokes.betterarlosound_0.1-3_iphoneos-arm.deb
+Size: 490990
+MD5sum: 7d4d68c56ec614273f54c5b648d793c1
+SHA1: 61f524a9a141897ef954c623340ea0937cc0a50d
+SHA256: ff869b2eda188857bbb9dafce37c4ac4e687b586858f59ee9bb0b335f2fde651
+Section: Tweaks
+Priority: optional
+Description: Makes the Arlo app notification fucking annoying. Perfect for ruining your sleep & figuring out someone is trying to break into your car resulting in having to pay a $500 deductible to your insurance company...because someone fucked with something you earned with your hard earned money. Fuck thieves, buy your own shit or get educated & find a better job. Also skrew people who don't recycle. Betches.
+Author: CokePokes
+Name: ArloAlertOnCrack
+
+Package: com.cokepokes.fucklargetitles
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: deb/com.cokepokes.fucklargetitles_0.2-1_iphoneos-arm.deb
+Size: 33124
+MD5sum: b8aa492de57b446a625961999d32ac42
+SHA1: 1c7741e0e1dcdc7a7f0d21bbc0d2c3c7cb7d9d64
+SHA256: 9e112bbc15c97180781a2547896d541edb410efd88e431305b3dfc7803956f32
+Section: Tweaks
+Priority: optional
+Description: Removes the redeckulous iOS11 HUGE titles in Apps
+Author: CokePokes
+Name: fucklargetitles
+
+Package: com.cokepokes.inutt
+Version: 1.1.1-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: deb/com.cokepokes.inutt_1.1.1-2_iphoneos-arm.deb
+Size: 17758836
+MD5sum: 45b402a9932454fef22909e5da374d3f
+SHA1: e882f27ced819f0637ef775410c46ac78f532a1a
+SHA256: 6051a4d7ace7e9af32df62533e125f1d31486907e8644671fd8d87c0e06ea187
+Section: System
+Priority: optional
+Description: Search/download corn from four different corn sites!
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/inutt.html
+Name: iNutt
+
+Package: com.cokepokes.libphantom
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 23111
+Depends: firmware (>= 7.0)
+Filename: deb/com.cokepokes.libphantom_1.0.2-1_iphoneos-arm.deb
+Size: 11920338
+MD5sum: ff0ba5d9a0a64875f437b85893a6fc61
+SHA1: 46b30299d2ef20c4d80d2b4374362fc6278fa879
+SHA256: 5e23f043b4845d61627fd736771e500dd75ca5acfb3c72436c004c975ea23241
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
+Description: Developer Libraries for Phantom tweak
+Tag: role::developer, purpose::library, cydia::obsolete
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
+Dev: cokepokes
+Name: libPhantom
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cokepokes.snapdecent
+Version: 0.2-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: deb/com.cokepokes.snapdecent_0.2-2_iphoneos-arm.deb
+Size: 27366
+MD5sum: c9260cd5d5c4afcf978a0c699bb6523b
+SHA1: c88d58d674f26ee1d5562481171259d0b0081337
+SHA256: 2286b15c5b5d72f291c5c6331a507e52063518cfd0b7294b8e915b0024f35d8e
+Section: Tweaks
+Priority: optional
+Description: Uses a file modification on every Snapchat app launch to revert back to the cool user interface. FOR THE IDIOTS: ENABLES OLD SNAPCHAT LOOK
+Author: CokePokes
+Name: snapdecent
+
+Package: com.cokepokes.spectre
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, shell-cmds
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor
+Replaces: com.cokepokes.phantom
+Filename: deb/com.cokepokes.spectre_0.4_iphoneos-arm.deb
+Size: 504408
+MD5sum: 04cffb7b01f8acb09f53ae4c3425fdf9
+SHA1: 0bd2133f97e7e1be6df16ec9a7720e3d7edd4a6e
+SHA256: d1a5285023695e4c083fc0575b450effdfffe560a1e8bdb7a2d54ae86bebd158
+Section: Tweaks
+Priority: optional
+Description: Tweaked Snapchat. Works on Snapchat 10.36.0.23. Right now, it only saves Snaps. **Note: It is incompatible with every Unlimapps tweak since Snapchat checks for uasharedtools. (Eh, it's bloatware anyways. You're better without it.)
+Author: CokePokes
+Name: Spectre [Beta] (formally Phantom)
+
+Package: com.cokepokes.teluguremove
+Version: 0.1-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0)
+Filename: deb/com.cokepokes.teluguremove_0.1-2_iphoneos-arm.deb
+Size: 54886
+MD5sum: 2cd6f11d4551d383bc345324628128d6
+SHA1: 9abfabb31de3b6f16f4761c7668bb7d9526a52a5
+SHA256: 4206198bf90566236df86478747a269e3624501647f16edd22608e2a6e66520c
+Section: System
+Priority: optional
+Description: This package is only a script that runs during installation. It renames the font file to KohinoorTelugu.ttc.nope and reverts back when this package is uninstalled.
+Author: CokePokes
+Name: teluguremove
+
+Package: com.cokepokes.watchUtilsSB
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: deb/com.cokepokes.watchUtilsSB_0.1-2_iphoneos-arm.deb
+Size: 13776
+MD5sum: cfeb1a6dc2b0bb81a20e88ce646683c0
+SHA1: f3e19c84e0283bb8af08a52c3676fbbe19185f0d
+SHA256: 647397c7a10d57d46e8ea1e8f7947b7430a82ee68596452bf4bc7679e9b04c32
+Section: Tweaks
+Priority: optional
+Homepage: https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f
+Description: This tweak is useless without the companion app found here https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f
+Author: CokePokes
+Depiction: https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f/b6ddb1801b4b72036f6cd492d51394a225bac89e
+Name: Core WatchUtils
+
+Package: com.greeny.restats
+Version: 1.1-28
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 408
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Conflicts: com.greeny.autostatisticsreset
+Filename: deb/com.greeny.restats_1.1-28_iphoneos-arm.deb
+Size: 223410
+MD5sum: 8d0bd8c033579cd141ca7e111a20a4f2
+SHA1: e10b4c473541a74db5d9a3a52f979803463c3c3b
+SHA256: 07fd425138bfe519aff49276368535367934d67b13b5193c020d6076612a09c0
+Section: Tweaks
+Description: Updated by CokePokes to work on iOS9-iOS11. Choose day to auto-reset Cellular stats
+Tag: purpose::extension, ios7support::1, ios8support::1, ios9support::1, ios10support::1, ios11support::1
+Author: GreenyDev <greenydev@greenmail.net.au>
+Dev: greeny
+Icon: file:///Library/PreferenceBundles/RCSPrefs.bundle/RCSPrefs@2x.png
+Name: ReStats
+
+Package: com.laughingquoll.Siliqua
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: deb/com.laughingquoll.Siliqua_1.0-2_iphoneos-arm.deb
+Size: 26842
+MD5sum: 610a1b15502f9d12da3829b8c4918fb0
+SHA1: db906edcaf858d518ae64fd37f5f9c6f2453f559
+SHA256: db46e016508430d29a2be474dcf2ae09f89e3bcf0a7203069937e0afdcbabd6e
+Section: Tweaks
+Priority: optional
+Author: laughingquoll
+Name: Siliqua
+
+
