@@ -9130,3 +9130,64 @@ Description: Manage packages via swipe.
 Name: SwipeForMore (Debug)
 Author: PoomSmart
 
+Package: org.thebigboss.swipeformore
+Version: 1.1.9
+Section: Tweaks
+Maintainer: PoomSmart
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs//org.thebigboss.swipeformore_1.1.9_iphoneos-arm.deb
+Size: 21680
+Installed-Size: 140
+MD5sum: 439898501824d0ebdbf587f47582bb8f
+Description: Dark mode for Notification
+Name: Dune (Dark Mode)
+Author: Me
+
+Package: com.skitty.dune
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Me
+Depends: mobilesubstrate
+Filename: ./debs/com.skitty.dune_0.1.2.deb
+Size: 24530 
+MD5sum: cf724f3856b719ff3ce0078fdb38d5d6
+SHA1: faa79dc7f8aa1ea4cf850ed920b008870695cce6
+SHA256: 26e68145ee4757027821dbf0a6445d05aaa62fb5bc195329207422bae3c610ba
+Section: Tweaks
+Description: Dark mode for notifications
+Author: Me
+Depiction: https://repohack.github.io/mainrepo/depiction/index.html
+Name: Dune (Dark Mode)
+
+Package: com.matchstic.reprovision
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Me
+Depends: mobilesubstrate
+Filename: ./debs/com.matchstic.reprovision_0.4.deb
+Size: 10572846 
+MD5sum: 72df9dd940bce63573020126fc889798
+SHA1: 60e17e95c81f8bdae9b329bc9a7cf0d5cc53f3e3
+SHA256: fec82a87c72e25ecf2690a4a9482294b61a81c12e2fc43af951429b4833fa51d
+Section: Tweaks
+Description: Cydia Impactor on your iphone
+Author: Me
+Depiction: https://repohack.github.io/mainrepo/depiction/index.html
+Name: Reprovision
+
+Package: cydiaxistyle
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Me
+Depends: mobilesubstrate
+Filename: ./debs/cydiaxistyle2.0.deb
+Size: 66878 
+MD5sum: 318f8ef700fc74cba50bfe3532135a1e
+SHA1: 15f62e37aa80de36b028ae2a46792a751879f803
+SHA256: c4318b4848af7d7fb1073ee385220dbcb45000a494a6f53ff3d4c5d3a22c2cc4
+Section: Tweaks
+Description: Cydia Redesign
+Author: Me
+Depiction: https://repohack.github.io/mainrepo/depiction/index.html
+Name: CydiaXIStyle
