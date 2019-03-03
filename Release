@@ -1,0 +1,9 @@
+Origin: A Main Repo
+Label: mainrepo
+Suite: stable
+Version: 1.0
+Codename: mainrepo
+Architectures: iphoneos-arm
+Components: main
+Description: A Repo that has some good tweaks
+Icon: file://CydiaIcon.png

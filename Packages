@@ -1,0 +1,443 @@
+Package: com.imkpatil.3dmorepower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.3dmorepower_1.0_iphoneos-arm.deb
+Size: 2314
+MD5sum: 6d8763019d1910b7166515f74d856a8d
+SHA1: 7c5e58d4117832cd59a843eeba760d0acbf54709
+SHA256: 54adef198eea820d3caaec978269b0a311957336cf49f4cd6db20ad7aa92beed
+Section: Tweaks
+Description: 3D Touch CC Low Power Mode for more options!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/3DMorePower/index.html
+Icon: file:///Library/Application Support/3DMorePower/icon.png
+Name: 3DMorePower
+
+Package: com.imkpatil.callblocker
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.callblocker_1.1_iphoneos-arm.deb
+Size: 24246
+MD5sum: 2c53539a82224efde7ac8e4471c8a4bb
+SHA1: 296503714487ea5016b42f31cf28182d16aef479
+SHA256: 94a719b93461629d6935db15580ca4c9acea10abf052bc874b1be5b5288d8b8b
+Section: Tweaks
+Description: Block annoying Callers!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/CallBlocker/index.html
+Icon: file:///Library/Application Support/CallBlocker/icon.png
+Name: CallBlocker
+
+Package: com.imkpatil.cclinker
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.cclinker_1.1.2_iphoneos-arm.deb
+Size: 24574
+MD5sum: 83e873d9204efac295257bc7a93db3ff
+SHA1: 9ac043e5737ec938438da864562b996179a2ebec
+SHA256: f65a260b284dede3dc846174d941c71d2c25a7c3c977c42de30e36f58a187d96
+Section: Tweaks
+Description: Open the settings pane for the CC Toggles by using gestures!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/CCLinker/index.html
+Icon: file:///Library/Application Support/CCLinker/icon.png
+Name: CCLinker
+
+Package: com.imkpatil.colormybattery
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 284
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.2.2_iphoneos-arm.deb
+Size: 36680
+MD5sum: 0a11d106af8082f8425d73d2c6468a56
+SHA1: 50047a19b8002738e5047bc3b6f22ddfdd9a5b42
+SHA256: 9449afff925d5ed8139f81cfa05cbfa3b602737120eb42f39e059e68d242fb14
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/ColorMyBattery/index.html
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.colormybattery
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 284
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.colormybattery_1.3_iphoneos-arm.deb
+Size: 36938
+MD5sum: 156621ee6b5ea21ee6dbd7265fe13e44
+SHA1: d344da34f0bd699bae252e353bda6f5868ccdb98
+SHA256: 2c158a5abd6c52518dd67034e24626122065b4a7d9fa48a1a43369c96449f01b
+Section: Tweaks
+Description: Battery Color based on the battery percentage.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/ColorMyBattery/index.html
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+Name: ColorMyBattery
+
+Package: com.imkpatil.countmymessages
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.countmymessages_1.0_iphoneos-arm.deb
+Size: 42152
+MD5sum: 041eeed5502b1d9011e4a887200ecabc
+SHA1: 8f329f47e21508a064e772de0aa9fdaad45d5e96
+SHA256: 39d5bd5b8a64abddc840e98f6d47b49242f2ad6f80fe1e9f1b7156e894e83a48
+Section: Tweaks
+Description: A Simple tweak to count my Total messages!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/CountMyMessages/index.html
+Icon: file:///Library/Application Support/CountMyMessages/icon.png
+Name: CountMyMessages
+
+Package: com.imkpatil.easyeditalarms
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.easyeditalarms_1.0_iphoneos-arm.deb
+Size: 3446
+MD5sum: f918580177fbad710e113b8a50962491
+SHA1: 1bcfc117ec3acbf02d7aed029cdd0913970b92d9
+SHA256: b54abf6ccc4fa99a6ebf603657134f0b487ff25f8267249f24354e271ef351be
+Section: Tweaks
+Description: Edit Alarms with a single tap!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/EasyEditAlarms/index.html
+Name: EasyEditAlarms
+
+Package: com.imkpatil.ezswipe
+Version: 1.0.0-15
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.ezswipe_1.0.0-15_iphoneos-arm.deb
+Size: 21042
+MD5sum: 62000352672ee119ebddc56b5a7966ad
+SHA1: 7229f245c8c707415db54e550a795c9e7728aafc
+SHA256: 5777df9cd5178edfba2b628b8cc63879271e67f7e39de4e65f32de4fec58822a
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/EZSwipe/index.html
+Icon: file:///Library/Application Support/EZSwipe/icon.png
+Name: EZSwipe
+
+Package: com.imkpatil.floatingdock
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.floatingdock_1.4_iphoneos-arm.deb
+Size: 31848
+MD5sum: 44c42af464e6e839688b48c33114a327
+SHA1: 4a3924ddf8e502aa1f9e9151e316ccfa2a02bc2c
+SHA256: eb98d47c448e19a39e72943158ab276936dd98027a6738cf46fdedb6eab8cd73
+Section: Tweaks
+Description: iPad like dock for iPhone!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/FloatingDock/index.html
+Icon: file:///Library/Application Support/FloatingDock/icon.png
+Name: FloatingDock
+
+Package: com.imkpatil.floatingdock
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 276
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.floatingdock_1.4.1_iphoneos-arm.deb
+Size: 31136
+MD5sum: d0015ce5732b9c48d7d6a4629e48f61d
+SHA1: ff6cd4d1bd19b5a777cda2f74e0a3be781c5930e
+SHA256: 41084f4647c0d99a79bde6b97d2d7cc3bc22cab2b8469c4aefbb5e83f359d2f9
+Section: Tweaks
+Description: iPad like dock for iPhone!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/FloatingDock/index.html
+Icon: file:///Library/Application Support/FloatingDock/icon.png
+Name: FloatingDock
+
+Package: com.imkpatil.floatingdock
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.floatingdock_1.4.2_iphoneos-arm.deb
+Size: 31378
+MD5sum: 8fb4fbb237e97d0b9722420f58e44c0f
+SHA1: 19919c789143436dfc13d41947b08678a4743ec6
+SHA256: 4f6942bf7afc91bfc50664656911887493b962c8de57f9cd451637db0e692842
+Section: Tweaks
+Description: iPad like dock for iPhone!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/FloatingDock/index.html
+Icon: file:///Library/Application Support/FloatingDock/icon.png
+Name: FloatingDock
+
+Package: com.imkpatil.floatingdock
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.floatingdock_1.5_iphoneos-arm.deb
+Size: 32082
+MD5sum: fc52420153bfefdf439d570b5a797543
+SHA1: bfa36782f829e1eb7de8d37ecbfd1610839e1ea2
+SHA256: 22015e48db685ad2863b80d5c4dd9bdd8fd26c08f38f0b857858d4c47dbc4acd
+Section: Tweaks
+Description: iPad like dock for iPhone!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/FloatingDock/index.html
+Icon: file:///Library/Application Support/FloatingDock/icon.png
+Name: FloatingDock
+
+Package: com.imkpatil.floatingdock
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.floatingdock_1.5.1_iphoneos-arm.deb
+Size: 31942
+MD5sum: 37b53c3ea4717e318854221816bf7a1b
+SHA1: 1fe5873f92a28269efc070a7860a42f8d1487569
+SHA256: 0f0d50a0c3f049ae83d05f97e19ac60e641e3433fb9635584e50403e47d8c170
+Section: Tweaks
+Description: iPad like dock for iPhone!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/FloatingDock/index.html
+Icon: file:///Library/Application Support/FloatingDock/icon.png
+Name: FloatingDock
+
+Package: com.imkpatil.homebarsizer
+Version: 1.0-5
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.homebarsizer_1.0-5_iphoneos-arm.deb
+Size: 21660
+MD5sum: c9e31457d84ef3086c5a29ecb5f76b61
+SHA1: 57da772df60d644978b2d9ad9b526e1b0f1e6ae3
+SHA256: 7f1e89c0888efa6644f9cc033a7848ed38235e80485633fa4f4cdbe8593d535a
+Section: Tweaks
+Description: Resize that HomeBar!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/HomeBarSizer/index.html
+Icon: file:///Library/Application Support/HomeBarSizer/icon.png
+Name: HomeBarSizer
+
+Package: com.imkpatil.letmeknow
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.3_iphoneos-arm.deb
+Size: 23638
+MD5sum: a7451728c3a1e6182b4e1480e7c6740f
+SHA1: 67ec5ac2ba688347de5539a8578492b26ce93af1
+SHA256: f57ee8200b87f1278581c50e10503702207786441ecf6a6607bcbdc665ca1dbe
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/LetMeKnow/index.html
+Icon: file:///Library/Application Support/LetMeKnow/Tweakicon.png
+Name: LetMeKnow
+
+Package: com.imkpatil.longtimer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.longtimer_1.0_iphoneos-arm.deb
+Size: 2598
+MD5sum: cddd3238d9188e5b9916a1cfabfbe59a
+SHA1: 5cd4e3c1db72babe7d2f0fe63f7c21aaeeba4763
+SHA256: a1bb29b4fe68e2aea690071ce731ae91b1d98bc58a58ad90580ab8a27515d1fa
+Section: Tweaks
+Description: Make the timer run longer!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/LongTimer/index.html
+Name: LongTimer
+
+Package: com.imkpatil.nooldernotificationstext
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.nooldernotificationstext_1.1.2_iphoneos-arm.deb
+Size: 2758
+MD5sum: a83fe19ef5b2123e12bd129d52460404
+SHA1: d4a1fa1f1f9e6543cb36aa7c3cdcfdc6e39e5120
+SHA256: f3ba87e4b36cb33ff1bd8243b37ba0d6aab2b036d0950fbb774362316feb27d4
+Section: Tweaks
+Description: Hide that annoying 'No Older Notifications' Text!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/NoOlderNotificationsText/index.html
+Name: NoOlderNotificationsText
+
+Package: com.imkpatil.nooldernotificationstext
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.nooldernotificationstext_1.2_iphoneos-arm.deb
+Size: 2864
+MD5sum: 5473345f8efba11d1c9e008d69c62a7d
+SHA1: 14cdbe2618acc656d7d0a15b8e618cf62f824987
+SHA256: 8a847c8d92638f584f973764ad4ac512ffbcfe8b417a10484a6abd90d7513a19
+Section: Tweaks
+Description: Hide that annoying 'No Older Notifications' Text!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/NoOlderNotificationsText/index.html
+Name: NoOlderNotificationsText
+
+Package: com.imkpatil.nudepassscreen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 260
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.imkpatil.nudepassscreen_1.0_iphoneos-arm.deb
+Size: 25284
+MD5sum: 0ba016cf527c5d7bd68247e8a5dfb084
+SHA1: a648a4e8a84208e357d9824d409ed0d3ad8a3175
+SHA256: 2571f59cbe29c0a122107295beeab64f01d4993802e28edf8b414b27bc04eb16
+Section: Tweaks
+Description: Nudify the PassCode Screen!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/NudePassScreen/index.html
+Icon: file:///Library/Application Support/NudePassScreen/icon.png
+Name: NudePassScreen
+
+Package: com.imkpatil.screenrecorderforcedaudio
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
+Size: 22202
+MD5sum: 612b2c682457f9c0968331519def91d5
+SHA1: ab03900973e2b9ec637cfa7a15e7b00ae70b9fdf
+SHA256: 3bc3942ddad6324abe5a3ede6f945e7babc0cd098042b0a174b49913735599fa
+Section: Tweaks
+Description: This tweak will force the phone audio to be recorded even when the micophone is turned ON.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/ScreenRecorderForcedAudio/index.html
+Icon: file:///Library/Application Support/ScreenRecorderForcedAudio/icon.png
+Name: ScreenRecorderForcedAudio
+
+Package: com.imkpatil.silentrecorder
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.silentrecorder_1.4_iphoneos-arm.deb
+Size: 24796
+MD5sum: bb99a51310f599996fc7c6f902f1685d
+SHA1: 868a8614d4933565b9ee687828831b30a265b3e7
+SHA256: 7feeedc9828862b29da1c049a891bc720e4fc639afa5e9b477e5a1e3a4deda74
+Section: Tweaks
+Description: Record the screen without the Red Indicator Window!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SilentRecorder/index.html
+Icon: file:///Library/Application Support/SilentRecorder/icon.png
+Name: SilentRecorder
+
+Package: com.imkpatil.spotcc
+Version: 0.0.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotcc_0.0.9-1+debug_iphoneos-arm.deb
+Size: 3382
+MD5sum: b505d066249a50d07083b388c87ab55d
+SHA1: 44af51f859a50c3b62e3c2a5d21a5db22ece6d0a
+SHA256: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
+Section: Tweaks
+Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SpotCC/index.html
+Name: SpotCC
+
+Package: com.imkpatil.spotclearonclose
+Version: 0.0.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_0.0.9-1+debug_iphoneos-arm.deb
+Size: 2348
+MD5sum: a703edbe539da7901a36efa530f63aca
+SHA1: c565013a8218908373fc2887bee4220028ecca90
+SHA256: 8517aaa28b8bfc458dba30593f84a26397afc42e8ef4dbbffbbaaadf670f063d
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/SpotClearOnClose/index.html
+Name: SpotClearOnClose
+
+Package: com.imkpatil.trashfromls
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.trashfromls_1.0-1_iphoneos-arm.deb
+Size: 5320
+MD5sum: 5b5726aafba8d6d48510e46d4fa58f54
+SHA1: a6d010e90ed198191e5e4cc2c58ea3517a0c8459
+SHA256: 5097e7a3f6f21d49b7a54b1b945a47a807eddbf9b3913e08be4aebedb233ef62
+Section: Tweaks
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Author: Kiran Patil
+Depiction: https://imkpatil.github.io/repo/depiction/TrashFromLS/index.html
+Icon: file:///Library/Application Support/TrashFromLS/icon.png
+Name: TrashFromLS
+
+
+Package: com.alexzielenski.zeppelin
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Me
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.alexzielenski.zeppelin_2.1.1-1.deb
+Size: 961890
+MD5sum: 2efd4f65eecd969fc7dca751a6beb072
+SHA1: 0907ac534585dd77db4fb0965a9758542915c3a5
+SHA256: e33f60859985ed1f70eb25ee99ea964bd31067cb54c6d4ceddbaa3ca001a533f
+Section: Tweaks
+Description: Zeppelin
+Author: Kiran Patil
+Depiction: https://repohack.github.io/mainrepo/depiction/Zeppelin/index.html
+Name: Zeppelin
